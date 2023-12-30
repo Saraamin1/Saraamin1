@@ -17,7 +17,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:saraaminelsaid@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
-![dart](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
 ![flutter](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![firebase](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Api](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
