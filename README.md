@@ -21,14 +21,13 @@
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### 🛠 &nbsp;Tech Stack
-![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
-![flutter](https://img.shields.io/badge/flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
-![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
+![dart](https://img.shields.io/badge/-dart-blue?style=flat&logo=dart&logoColor=563D7C)&nbsp;
+![flutter](https://img.shields.io/badge/flutter-563D7C?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
+![firebase](https://img.shields.io/badge/-firebase-yellow?style=flat&logo=firebase&logoColor=563D7C)&nbsp;
 ![Api](https://img.shields.io/badge/-api-05122A?style=flat&logo=api&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 
 
