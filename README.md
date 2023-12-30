@@ -7,10 +7,10 @@
 
 <h3>🚀 About Me</h3> 
 
-- 🏢 I'm a Flutter developer
+- 🏢 I’m currently learning FLUTTER Development
 - I really enjoy learning Programming languages and frameworks. I also enjoy Implementing of designs. 
 - 👨‍💻 Check out my portfolio   to see some of the projects I've worked on.
-- 
+- ⚡ Fun fact always learning
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ## 🔗 Links
