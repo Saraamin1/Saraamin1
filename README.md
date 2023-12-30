@@ -12,10 +12,6 @@
 - 👨‍💻 Check out my portfolio   to see some of the projects I've worked on.
 
 
-## 🔗Contact Me
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahmoudmayar251@gmail.com)](mailto:mahmoudmayar251@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)]([https://www.linkedin.com/in/mayar-mahmoud-01b05a265/](https://www.linkedin.com/in/sara-amin-17b15524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
