@@ -11,6 +11,10 @@
 - I really enjoy learning Programming languages and frameworks. I also enjoy Implementing of designs. 
 - 👨‍💻 Check out my portfolio   to see some of the projects I've worked on.
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-amin-17b15524b)
+[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:saraaminelsaid@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
