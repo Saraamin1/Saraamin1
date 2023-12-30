@@ -18,9 +18,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
-![flutter](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![firebase](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Api](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![flutter](https://img.shields.io/badge/flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
+![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Api](https://img.shields.io/badge/-api-05122A?style=flat&logo=api&logoColor=1572B6)&nbsp;
 
 
 
